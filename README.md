@@ -9,4 +9,4 @@ Hierarchical clusterization - применение иерархической к
 dlcourse_ai - решения задач курса по deeplearning
 
 
-mca-workshop
+mca-workshop - воркшоп по компьютерной безопасности
