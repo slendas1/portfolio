@@ -5,6 +5,7 @@ CycleGan - решение kaggle соревнования: https://www.kaggle.co
 
 Hierarchical clusterization - применение иерархической кластеризации
 
+algorithms_olympiad_programming - реализация дерева отрезков для поиска нода
 
 dlcourse_ai - решения задач курса по deeplearning
 
